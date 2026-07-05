@@ -1,0 +1,209 @@
+{
+  "platform": "alipay",
+  "privacy_categories": [
+    {
+      "id": "precise_location",
+      "label_zh": "地理位置",
+      "label_en": "Location",
+      "apis": [
+        {
+          "name": "my.getLocation",
+          "kind": "api"
+        },
+        {
+          "name": "my.ap.getMainSelectedCity",
+          "kind": "api"
+        },
+        {
+          "name": "my.chooseLocation",
+          "kind": "api"
+        },
+        {
+          "name": "my.openLocation",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "photos_videos_read",
+      "label_zh": "相册（访问）",
+      "label_en": "Photo Album (Read)",
+      "apis": [
+        {
+          "name": "my.chooseImage",
+          "kind": "api"
+        },
+        {
+          "name": "my.chooseVideo",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "photos_videos_write",
+      "label_zh": "相册（保存）",
+      "label_en": "Photo Album (Write)",
+      "apis": [
+        {
+          "name": "my.saveImageToPhotosAlbum",
+          "kind": "api"
+        },
+        {
+          "name": "my.saveVideoToPhotosAlbum",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "camera",
+      "label_zh": "摄像头权限",
+      "label_en": "Camera",
+      "apis": [
+        {
+          "name": "my.scan",
+          "kind": "api"
+        },
+        {
+          "name": "my.createVideoContext",
+          "kind": "api"
+        },
+        {
+          "name": "my.createCameraContext",
+          "kind": "api"
+        },
+        {
+          "name": "CameraContext.takePhoto",
+          "kind": "api"
+        },
+        {
+          "name": "CameraContext.startRecord",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "microphone",
+      "label_zh": "麦克风",
+      "label_en": "Microphone",
+      "apis": [
+        {
+          "name": "my.getRecorderManager",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "bluetooth",
+      "label_zh": "蓝牙",
+      "label_en": "Bluetooth",
+      "apis": [
+        {
+          "name": "my.openBluetoothAdapter",
+          "kind": "api"
+        },
+        {
+          "name": "my.getBeacons",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "clipboard",
+      "label_zh": "剪切板",
+      "label_en": "Clipboard",
+      "apis": [
+        {
+          "name": "my.getClipboard",
+          "kind": "api"
+        },
+        {
+          "name": "my.setClipboard",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "contacts",
+      "label_zh": "通讯录",
+      "label_en": "Contacts",
+      "apis": [
+        {
+          "name": "my.choosePhoneContact",
+          "kind": "api"
+        },
+        {
+          "name": "my.chooseContact",
+          "kind": "api"
+        },
+        {
+          "name": "my.addPhoneContact",
+          "kind": "api"
+        },
+        {
+          "name": "my.chooseAlipayContact",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "accelerometer",
+      "label_zh": "加速度计",
+      "label_en": "Accelerometer",
+      "apis": [
+        {
+          "name": "my.startAccelerometer",
+          "kind": "api"
+        },
+        {
+          "name": "my.onAccelerometerChange",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "gyroscope",
+      "label_zh": "陀螺仪",
+      "label_en": "Gyroscope",
+      "apis": [
+        {
+          "name": "my.startGyroscope",
+          "kind": "api"
+        },
+        {
+          "name": "my.onGyroscopeChange",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "compass",
+      "label_zh": "罗盘",
+      "label_en": "Compass",
+      "apis": [
+        {
+          "name": "my.startCompass",
+          "kind": "api"
+        },
+        {
+          "name": "my.onCompassChange",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "device_motion",
+      "label_zh": "设备方向",
+      "label_en": "Device Motion",
+      "apis": [
+        {
+          "name": "my.startDeviceMotionListening",
+          "kind": "api"
+        },
+        {
+          "name": "my.onDeviceMotionChange",
+          "kind": "api"
+        }
+      ]
+    }
+  ]
+}

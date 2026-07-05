@@ -1,0 +1,327 @@
+{
+  "platform": "douyin",
+  "privacy_categories": [
+    {
+      "id": "nickname_avatar",
+      "label_zh": "用户头像、昵称",
+      "label_en": "Nickname and Avatar",
+      "apis": [
+        {
+          "name": "tt.getUserInfo",
+          "kind": "api",
+          "status": "deprecated"
+        },
+        {
+          "name": "tt.getUserProfile",
+          "kind": "api"
+        },
+        {
+          "name": "open-data",
+          "kind": "component"
+        }
+      ]
+    },
+    {
+      "id": "phone_number",
+      "label_zh": "手机号",
+      "label_en": "Phone Number",
+      "apis": [
+        {
+          "name": "button-getPhoneNumber",
+          "kind": "component"
+        }
+      ]
+    },
+    {
+      "id": "phone_call",
+      "label_zh": "拨打电话",
+      "label_en": "Phone Call",
+      "apis": [
+        {
+          "name": "tt.makePhoneCall",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "address",
+      "label_zh": "通讯地址",
+      "label_en": "Shipping Address",
+      "apis": [
+        {
+          "name": "tt.chooseAddress",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "precise_location",
+      "label_zh": "地理位置",
+      "label_en": "Location",
+      "apis": [
+        {
+          "name": "tt.getLocation",
+          "kind": "api"
+        },
+        {
+          "name": "tt.startLocationUpdate",
+          "kind": "api"
+        },
+        {
+          "name": "tt.stopLocationUpdate",
+          "kind": "api"
+        },
+        {
+          "name": "tt.onLocationChange",
+          "kind": "api"
+        },
+        {
+          "name": "tt.offLocationChange",
+          "kind": "api"
+        },
+        {
+          "name": "tt.onLocationChangeError",
+          "kind": "api"
+        },
+        {
+          "name": "tt.offLocationChangeError",
+          "kind": "api"
+        },
+        {
+          "name": "tt.chooseLocation",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "clipboard",
+      "label_zh": "剪切板",
+      "label_en": "Clipboard",
+      "apis": [
+        {
+          "name": "tt.getClipboardData",
+          "kind": "api"
+        },
+        {
+          "name": "tt.setClipboardData",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "calendar",
+      "label_zh": "日历",
+      "label_en": "Calendar",
+      "apis": [
+        {
+          "name": "button-addCalendarEvent",
+          "kind": "component"
+        },
+        {
+          "name": "tt.deleteCalendarEvent",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "microphone",
+      "label_zh": "麦克风",
+      "label_en": "Microphone",
+      "apis": [
+        {
+          "name": "tt.getRecorderManager",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "camera",
+      "label_zh": "相机",
+      "label_en": "Camera",
+      "apis": [
+        {
+          "name": "tt.createCameraContext",
+          "kind": "api"
+        },
+        {
+          "name": "tt.createEffectCameraStream",
+          "kind": "api"
+        },
+        {
+          "name": "camera",
+          "kind": "component"
+        }
+      ]
+    },
+    {
+      "id": "photos_videos",
+      "label_zh": "相册",
+      "label_en": "Photos and Videos",
+      "apis": [
+        {
+          "name": "tt.chooseImage",
+          "kind": "api"
+        },
+        {
+          "name": "tt.saveImageToPhotosAlbum",
+          "kind": "api"
+        },
+        {
+          "name": "tt.chooseVideo",
+          "kind": "api"
+        },
+        {
+          "name": "tt.chooseMedia",
+          "kind": "api"
+        },
+        {
+          "name": "tt.saveVideoToPhotosAlbum",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "face_recognition",
+      "label_zh": "人脸识别",
+      "label_en": "Facial Recognition",
+      "special": true,
+      "note": "需要向抖音申请特殊权限",
+      "apis": [
+        {
+          "name": "tt.startFacialRecognitionVerify",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "accelerometer",
+      "label_zh": "加速度计",
+      "label_en": "Accelerometer",
+      "apis": [
+        {
+          "name": "tt.startAccelerometer",
+          "kind": "api"
+        },
+        {
+          "name": "tt.stopAccelerometer",
+          "kind": "api"
+        },
+        {
+          "name": "tt.onAccelerometerChange",
+          "kind": "api"
+        },
+        {
+          "name": "tt.offAccelerometerChange",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "compass",
+      "label_zh": "罗盘",
+      "label_en": "Compass",
+      "apis": [
+        {
+          "name": "tt.startCompass",
+          "kind": "api"
+        },
+        {
+          "name": "tt.stopCompass",
+          "kind": "api"
+        },
+        {
+          "name": "tt.onCompassChange",
+          "kind": "api"
+        },
+        {
+          "name": "tt.offCompassChange",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "gyroscope",
+      "label_zh": "陀螺仪",
+      "label_en": "Gyroscope",
+      "apis": [
+        {
+          "name": "tt.startGyroscope",
+          "kind": "api"
+        },
+        {
+          "name": "tt.stopGyroscope",
+          "kind": "api"
+        },
+        {
+          "name": "tt.onGyroscopeChange",
+          "kind": "api"
+        },
+        {
+          "name": "tt.offGyroscopeChange",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "wifi_status",
+      "label_zh": "WIFI状态",
+      "label_en": "WiFi Status",
+      "apis": [
+        {
+          "name": "tt.getWifiList",
+          "kind": "api"
+        },
+        {
+          "name": "tt.onGetWifiList",
+          "kind": "api"
+        },
+        {
+          "name": "tt.offGetWifiList",
+          "kind": "api"
+        },
+        {
+          "name": "tt.getConnectedWifi",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "douyin_account_data",
+      "label_zh": "抖音账号数据",
+      "label_en": "Douyin Account Data",
+      "special": true,
+      "note": "包含用户数据、内容数据、评论数据、视频绑定",
+      "apis": [
+        {
+          "name": "ma.user.data",
+          "kind": "api"
+        },
+        {
+          "name": "ma.item.data",
+          "kind": "api"
+        },
+        {
+          "name": "ma.item.comment",
+          "kind": "api"
+        },
+        {
+          "name": "ma.video.bind",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "wallet_identity",
+      "label_zh": "钱包实名认证",
+      "label_en": "Wallet Identity Verification",
+      "special": true,
+      "note": "需要向抖音申请特殊权限",
+      "apis": [
+        {
+          "name": "user.certification.account",
+          "kind": "api"
+        }
+      ]
+    }
+  ]
+}

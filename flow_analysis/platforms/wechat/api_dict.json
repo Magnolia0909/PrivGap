@@ -1,0 +1,389 @@
+{
+  "platform": "wechat",
+  "privacy_categories": [
+    {
+      "id": "nickname_avatar",
+      "label_zh": "昵称、头像",
+      "label_en": "Nickname and Avatar",
+      "apis": [
+        {
+          "name": "button[open-type=chooseAvatar]",
+          "kind": "component"
+        },
+        {
+          "name": "input[type=nickname]",
+          "kind": "component"
+        },
+        {
+          "name": "wx.getUserInfo",
+          "kind": "api",
+          "status": "deprecated"
+        },
+        {
+          "name": "wx.getUserProfile",
+          "kind": "api",
+          "status": "deprecated"
+        },
+        {
+          "name": "button[open-type=userInfo]",
+          "kind": "component",
+          "status": "deprecated"
+        }
+      ]
+    },
+    {
+      "id": "precise_location",
+      "label_zh": "位置信息",
+      "label_en": "Precise Location",
+      "apis": [
+        {
+          "name": "wx.getLocation",
+          "kind": "api"
+        },
+        {
+          "name": "wx.startLocationUpdate",
+          "kind": "api"
+        },
+        {
+          "name": "wx.startLocationUpdateBackground",
+          "kind": "api"
+        },
+        {
+          "name": "wx.getFuzzyLocation",
+          "kind": "api"
+        },
+        {
+          "name": "MapContext.moveToLocation",
+          "kind": "api"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.userLocation"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.userLocationBackground"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.userFuzzyLocation"
+        }
+      ]
+    },
+    {
+      "id": "chosen_location",
+      "label_zh": "选择的位置信息",
+      "label_en": "User-selected Location",
+      "apis": [
+        {
+          "name": "wx.choosePoi",
+          "kind": "api"
+        },
+        {
+          "name": "wx.chooseLocation",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "home_address",
+      "label_zh": "家庭住址",
+      "label_en": "Home/Delivery Address",
+      "apis": [
+        {
+          "name": "wx.chooseAddress",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "invoice",
+      "label_zh": "发票信息",
+      "label_en": "Invoice Information",
+      "apis": [
+        {
+          "name": "wx.chooseInvoiceTitle",
+          "kind": "api"
+        },
+        {
+          "name": "wx.chooseInvoice",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "step_count",
+      "label_zh": "微信运动步数",
+      "label_en": "WeRun Step Count",
+      "apis": [
+        {
+          "name": "wx.getWeRunData",
+          "kind": "api"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.werun"
+        }
+      ]
+    },
+    {
+      "id": "phone_number",
+      "label_zh": "手机号",
+      "label_en": "Phone Number",
+      "apis": [
+        {
+          "name": "button[open-type=getPhoneNumber]",
+          "kind": "component"
+        },
+        {
+          "name": "button[open-type=getRealtimePhoneNumber]",
+          "kind": "component"
+        }
+      ]
+    },
+    {
+      "id": "license_plate",
+      "label_zh": "车牌号",
+      "label_en": "License Plate",
+      "apis": [
+        {
+          "name": "wx.chooseLicensePlate",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "photos_videos",
+      "label_zh": "选中的照片或视频",
+      "label_en": "Photos and Videos",
+      "apis": [
+        {
+          "name": "wx.chooseImage",
+          "kind": "api"
+        },
+        {
+          "name": "wx.chooseMedia",
+          "kind": "api"
+        },
+        {
+          "name": "wx.chooseVideo",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "microphone",
+      "label_zh": "麦克风",
+      "label_en": "Microphone",
+      "apis": [
+        {
+          "name": "wx.startRecord",
+          "kind": "api"
+        },
+        {
+          "name": "wx.getRecorderManager",
+          "kind": "api"
+        },
+        {
+          "name": "RecorderManager.start",
+          "kind": "api"
+        },
+        {
+          "name": "live-pusher",
+          "kind": "component"
+        },
+        {
+          "name": "wx.joinVoIPChat",
+          "kind": "api"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.record"
+        }
+      ]
+    },
+    {
+      "id": "camera",
+      "label_zh": "摄像头",
+      "label_en": "Camera",
+      "apis": [
+        {
+          "name": "wx.createVKSession",
+          "kind": "api"
+        },
+        {
+          "name": "wx.createCameraContext",
+          "kind": "api"
+        },
+        {
+          "name": "camera",
+          "kind": "component"
+        },
+        {
+          "name": "live-pusher",
+          "kind": "component"
+        },
+        {
+          "name": "voip-room",
+          "kind": "component"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.camera"
+        }
+      ]
+    },
+    {
+      "id": "bluetooth",
+      "label_zh": "蓝牙",
+      "label_en": "Bluetooth",
+      "apis": [
+        {
+          "name": "wx.openBluetoothAdapter",
+          "kind": "api"
+        },
+        {
+          "name": "wx.createBLEPeripheralServer",
+          "kind": "api"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.bluetooth"
+        }
+      ]
+    },
+    {
+      "id": "photo_album_write",
+      "label_zh": "相册（仅写入）",
+      "label_en": "Photo Album (Write Only)",
+      "apis": [
+        {
+          "name": "wx.saveImageToPhotosAlbum",
+          "kind": "api"
+        },
+        {
+          "name": "wx.saveVideoToPhotosAlbum",
+          "kind": "api"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.writePhotosAlbum"
+        }
+      ]
+    },
+    {
+      "id": "files",
+      "label_zh": "选中的文件",
+      "label_en": "Files",
+      "apis": [
+        {
+          "name": "wx.chooseMessageFile",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "contacts_write",
+      "label_zh": "通讯录（仅写入）",
+      "label_en": "Contacts (Write Only)",
+      "apis": [
+        {
+          "name": "wx.addPhoneContact",
+          "kind": "api"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.addPhoneContact"
+        }
+      ]
+    },
+    {
+      "id": "calendar_write",
+      "label_zh": "日历（仅写入）",
+      "label_en": "Calendar (Write Only)",
+      "apis": [
+        {
+          "name": "wx.addPhoneRepeatCalendar",
+          "kind": "api"
+        },
+        {
+          "name": "wx.addPhoneCalendar",
+          "kind": "api"
+        },
+        {
+          "name": "wx.authorize",
+          "kind": "api",
+          "scope": "scope.addPhoneCalendar"
+        }
+      ]
+    },
+    {
+      "id": "accelerometer",
+      "label_zh": "加速传感器",
+      "label_en": "Accelerometer",
+      "apis": [
+        {
+          "name": "wx.startAccelerometer",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "compass",
+      "label_zh": "磁场传感器",
+      "label_en": "Compass",
+      "apis": [
+        {
+          "name": "wx.startCompass",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "device_motion",
+      "label_zh": "方向传感器",
+      "label_en": "Device Motion",
+      "apis": [
+        {
+          "name": "wx.startDeviceMotionListening",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "gyroscope",
+      "label_zh": "陀螺仪传感器",
+      "label_en": "Gyroscope",
+      "apis": [
+        {
+          "name": "wx.startGyroscope",
+          "kind": "api"
+        }
+      ]
+    },
+    {
+      "id": "clipboard",
+      "label_zh": "剪切板",
+      "label_en": "Clipboard",
+      "apis": [
+        {
+          "name": "wx.setClipboardData",
+          "kind": "api"
+        },
+        {
+          "name": "wx.getClipboardData",
+          "kind": "api"
+        }
+      ]
+    }
+  ]
+}
