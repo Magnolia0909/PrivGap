@@ -1,0 +1,1165 @@
+{
+  "platform": "wechat",
+  "data_types_ontology": {
+    "微信小程序官方隐私接口": {
+      "id": "wechat_official_privacy_api",
+      "scope": "guideline_governed",
+      "children": {
+        "昵称、头像": {
+          "id": "nickname_avatar",
+          "canonical_id": "nickname_avatar",
+          "terms": [
+            "昵称、头像",
+            "微信昵称、头像",
+            "微信昵称",
+            "微信头像",
+            "用户昵称",
+            "用户头像",
+            "昵称",
+            "头像",
+            "Nickname and Avatar"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Nickname and Avatar",
+          "apis": [
+            "wx.getUserInfo",
+            "wx.getUserProfile"
+          ],
+          "methods": [
+            "getUserInfo",
+            "getUserProfile"
+          ],
+          "wxml_triggers": [
+            "button[open-type=chooseAvatar]",
+            "input[type=nickname]",
+            "button[open-type=userInfo]"
+          ],
+          "permissions": []
+        },
+        "位置信息": {
+          "id": "precise_location",
+          "canonical_id": "precise_location",
+          "terms": [
+            "位置信息",
+            "地理位置",
+            "定位信息",
+            "GPS",
+            "定位",
+            "Precise Location"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Precise Location",
+          "apis": [
+            "wx.getLocation",
+            "wx.startLocationUpdate",
+            "wx.startLocationUpdateBackground",
+            "wx.getFuzzyLocation",
+            "MapContext.moveToLocation"
+          ],
+          "methods": [
+            "getLocation",
+            "startLocationUpdate",
+            "startLocationUpdateBackground",
+            "getFuzzyLocation",
+            "moveToLocation"
+          ],
+          "wxml_triggers": [],
+          "permissions": [
+            "scope.userLocation",
+            "scope.userLocationBackground",
+            "scope.userFuzzyLocation"
+          ],
+          "children": {
+            "地址": {
+              "id": "home_address",
+              "canonical_id": "home_address",
+              "terms": [
+                "地址",
+                "通讯地址",
+                "收货地址",
+                "联系地址",
+                "Shipping Address"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": true,
+              "label_en": "Shipping Address",
+              "apis": [
+                "wx.chooseAddress"
+              ],
+              "methods": [
+                "chooseAddress"
+              ],
+              "wxml_triggers": [],
+              "permissions": [],
+              "children": {
+                "家庭住址": {
+                  "id": "home_address",
+                  "canonical_id": "home_address",
+                  "terms": [
+                    "家庭住址",
+                    "居住地址",
+                    "住址",
+                    "详细地址",
+                    "家庭地址",
+                    "联系地址"
+                  ],
+                  "user_input_types": [
+                    "home_address"
+                  ],
+                  "scope": "guideline_governed",
+                  "api_bound": true
+                }
+              }
+            },
+            "选择的位置信息": {
+              "id": "chosen_location",
+              "canonical_id": "chosen_location",
+              "terms": [
+                "选择的位置信息",
+                "选择的位置",
+                "用户选择位置",
+                "User-selected Location"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": true,
+              "label_en": "User-selected Location",
+              "apis": [
+                "wx.choosePoi",
+                "wx.chooseLocation"
+              ],
+              "methods": [
+                "choosePoi",
+                "chooseLocation"
+              ],
+              "wxml_triggers": [],
+              "permissions": []
+            }
+          }
+        },
+        "发票信息": {
+          "id": "invoice",
+          "canonical_id": "invoice",
+          "terms": [
+            "发票信息",
+            "发票",
+            "发票抬头",
+            "Invoice Information"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Invoice Information",
+          "apis": [
+            "wx.chooseInvoiceTitle",
+            "wx.chooseInvoice"
+          ],
+          "methods": [
+            "chooseInvoiceTitle",
+            "chooseInvoice"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "微信运动步数": {
+          "id": "step_count",
+          "canonical_id": "step_count",
+          "terms": [
+            "微信运动步数",
+            "运动步数",
+            "步数",
+            "WeRun Step Count"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "WeRun Step Count",
+          "apis": [
+            "wx.getWeRunData"
+          ],
+          "methods": [
+            "getWeRunData"
+          ],
+          "wxml_triggers": [],
+          "permissions": [
+            "scope.werun"
+          ]
+        },
+        "手机号": {
+          "id": "phone_number",
+          "canonical_id": "phone_number",
+          "terms": [
+            "手机号",
+            "手机号码",
+            "电话号码",
+            "联系电话",
+            "Phone Number"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Phone Number",
+          "apis": [
+            "wx.getPhoneNumber"
+          ],
+          "methods": [
+            "getPhoneNumber"
+          ],
+          "wxml_triggers": [
+            "button[open-type=getPhoneNumber]",
+            "button[open-type=getRealtimePhoneNumber]"
+          ],
+          "permissions": []
+        },
+        "车牌号": {
+          "id": "license_plate",
+          "canonical_id": "license_plate",
+          "terms": [
+            "车牌号",
+            "车牌",
+            "车辆号牌",
+            "License Plate"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "License Plate",
+          "apis": [
+            "wx.chooseLicensePlate"
+          ],
+          "methods": [
+            "chooseLicensePlate"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "选中的照片或视频": {
+          "id": "photos_videos",
+          "canonical_id": "photos_videos",
+          "terms": [
+            "相册",
+            "照片",
+            "视频",
+            "媒体文件",
+            "照片或视频信息",
+            "选中的照片或视频",
+            "Photos and Videos"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Photos and Videos",
+          "apis": [
+            "wx.chooseImage",
+            "wx.chooseMedia",
+            "wx.chooseVideo",
+            "wx.getImageInfo"
+          ],
+          "methods": [
+            "chooseImage",
+            "chooseMedia",
+            "chooseVideo",
+            "getImageInfo"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "选中的文件": {
+          "id": "files",
+          "canonical_id": "files",
+          "terms": [
+            "选中的文件",
+            "选择的文件",
+            "文件",
+            "Files"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Files",
+          "apis": [
+            "wx.chooseMessageFile",
+            "wx.getFileInfo"
+          ],
+          "methods": [
+            "chooseMessageFile",
+            "getFileInfo"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "麦克风": {
+          "id": "microphone",
+          "canonical_id": "microphone",
+          "terms": [
+            "麦克风",
+            "录音",
+            "语音",
+            "Microphone"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Microphone",
+          "apis": [
+            "wx.startRecord",
+            "RecorderManager.start",
+            "wx.joinVoIPChat",
+            "wx.getRecorderManager"
+          ],
+          "methods": [
+            "startRecord",
+            "start",
+            "joinVoIPChat",
+            "getRecorderManager"
+          ],
+          "wxml_triggers": [
+            "live-pusher"
+          ],
+          "permissions": [
+            "scope.record"
+          ]
+        },
+        "摄像头": {
+          "id": "camera",
+          "canonical_id": "camera",
+          "terms": [
+            "摄像头",
+            "相机",
+            "拍照",
+            "扫码",
+            "录像",
+            "Camera"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Camera",
+          "apis": [
+            "wx.createVKSession"
+          ],
+          "methods": [
+            "createVKSession"
+          ],
+          "wxml_triggers": [
+            "camera",
+            "live-pusher",
+            "voip-room"
+          ],
+          "permissions": [
+            "scope.camera"
+          ]
+        },
+        "蓝牙": {
+          "id": "bluetooth",
+          "canonical_id": "bluetooth",
+          "terms": [
+            "蓝牙",
+            "蓝牙设备",
+            "蓝牙连接",
+            "Bluetooth"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Bluetooth",
+          "apis": [
+            "wx.openBluetoothAdapter",
+            "wx.createBLEPeripheralServer"
+          ],
+          "methods": [
+            "openBluetoothAdapter",
+            "createBLEPeripheralServer"
+          ],
+          "wxml_triggers": [],
+          "permissions": [
+            "scope.bluetooth"
+          ]
+        },
+        "相册（仅写入）": {
+          "id": "photo_album_write",
+          "canonical_id": "photo_album_write",
+          "terms": [
+            "相册（仅写入）",
+            "保存到相册",
+            "写入相册",
+            "Photo Album (Write Only)"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Photo Album (Write Only)",
+          "apis": [
+            "wx.saveImageToPhotosAlbum",
+            "wx.saveVideoToPhotosAlbum"
+          ],
+          "methods": [
+            "saveImageToPhotosAlbum",
+            "saveVideoToPhotosAlbum"
+          ],
+          "wxml_triggers": [],
+          "permissions": [
+            "scope.writePhotosAlbum"
+          ]
+        },
+        "通讯录（仅写入）": {
+          "id": "contacts_write",
+          "canonical_id": "contacts_write",
+          "terms": [
+            "通讯录（仅写入）",
+            "添加联系人",
+            "写入通讯录",
+            "Contacts (Write Only)"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Contacts (Write Only)",
+          "apis": [
+            "wx.addPhoneContact"
+          ],
+          "methods": [
+            "addPhoneContact"
+          ],
+          "wxml_triggers": [],
+          "permissions": [
+            "scope.addPhoneContact"
+          ]
+        },
+        "日历（仅写入）": {
+          "id": "calendar_write",
+          "canonical_id": "calendar_write",
+          "terms": [
+            "日历（仅写入）",
+            "添加日历",
+            "日程",
+            "Calendar (Write Only)"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Calendar (Write Only)",
+          "apis": [
+            "wx.addPhoneRepeatCalendar",
+            "wx.addPhoneCalendar"
+          ],
+          "methods": [
+            "addPhoneRepeatCalendar",
+            "addPhoneCalendar"
+          ],
+          "wxml_triggers": [],
+          "permissions": [
+            "scope.addPhoneCalendar"
+          ]
+        },
+        "加速传感器": {
+          "id": "accelerometer",
+          "canonical_id": "accelerometer",
+          "terms": [
+            "加速传感器",
+            "加速度传感器",
+            "加速度计",
+            "Accelerometer"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Accelerometer",
+          "apis": [
+            "wx.startAccelerometer"
+          ],
+          "methods": [
+            "startAccelerometer"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "磁场传感器": {
+          "id": "compass",
+          "canonical_id": "compass",
+          "terms": [
+            "磁场传感器",
+            "罗盘",
+            "指南针",
+            "方向传感器",
+            "Compass"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Compass",
+          "apis": [
+            "wx.startCompass"
+          ],
+          "methods": [
+            "startCompass"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "方向传感器": {
+          "id": "device_motion",
+          "canonical_id": "device_motion",
+          "terms": [
+            "方向传感器",
+            "设备方向",
+            "设备姿态",
+            "方向感应",
+            "Device Motion"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Device Motion",
+          "apis": [
+            "wx.startDeviceMotionListening"
+          ],
+          "methods": [
+            "startDeviceMotionListening"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "陀螺仪传感器": {
+          "id": "gyroscope",
+          "canonical_id": "gyroscope",
+          "terms": [
+            "陀螺仪传感器",
+            "陀螺仪",
+            "角速度",
+            "Gyroscope"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Gyroscope",
+          "apis": [
+            "wx.startGyroscope"
+          ],
+          "methods": [
+            "startGyroscope"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "剪切板": {
+          "id": "clipboard",
+          "canonical_id": "clipboard",
+          "terms": [
+            "剪切板",
+            "剪贴板",
+            "粘贴板",
+            "Clipboard"
+          ],
+          "scope": "guideline_governed",
+          "api_bound": true,
+          "label_en": "Clipboard",
+          "apis": [
+            "wx.setClipboardData",
+            "wx.getClipboardData"
+          ],
+          "methods": [
+            "setClipboardData",
+            "getClipboardData"
+          ],
+          "wxml_triggers": [],
+          "permissions": []
+        },
+        "指引非 API 披露项": {
+          "id": "wechat_guideline_template_only",
+          "scope": "guideline_governed",
+          "api_bound": false,
+          "terms": [
+            "指引非 API 披露项"
+          ],
+          "children": {
+            "设备信息": {
+              "id": "device_info",
+              "canonical_id": "device_info",
+              "terms": [
+                "设备信息",
+                "设备型号",
+                "系统信息",
+                "硬件产品",
+                "计算机",
+                "手机",
+                "手表",
+                "其他设备发送给我们的信息"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": false,
+              "apis": [
+                "wx.getDeviceInfo",
+                "wx.getWindowInfo",
+                "wx.getAppBaseInfo",
+                "wx.getSystemInfo",
+                "wx.getSystemInfoSync",
+                "wx.getNetworkType"
+              ],
+              "methods": [
+                "getDeviceInfo",
+                "getWindowInfo",
+                "getAppBaseInfo",
+                "getSystemInfo",
+                "getSystemInfoSync",
+                "getNetworkType"
+              ]
+            },
+            "身份证号码": {
+              "id": "id_card",
+              "canonical_id": "id_card",
+              "terms": [
+                "身份证号码",
+                "身份证号",
+                "身份证",
+                "证件号",
+                "证件号码",
+                "证件类型"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": false
+            },
+            "订单信息": {
+              "id": "order_info",
+              "canonical_id": "order_info",
+              "terms": [
+                "订单信息",
+                "订单",
+                "交易记录",
+                "物流信息",
+                "下单信息"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": false
+            },
+            "发布内容": {
+              "id": "published_content",
+              "canonical_id": "published_content",
+              "terms": [
+                "发布内容",
+                "用户内容",
+                "发布信息",
+                "留言",
+                "聊天内容",
+                "活动信息"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": false
+            },
+            "所关注账号": {
+              "id": "subscribed_accounts",
+              "canonical_id": "subscribed_accounts",
+              "terms": [
+                "所关注账号",
+                "关注的账号",
+                "订阅账号",
+                "公众号关注信息"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": false
+            },
+            "操作日志": {
+              "id": "operation_log",
+              "canonical_id": "operation_log",
+              "terms": [
+                "操作日志",
+                "使用日志",
+                "行为日志",
+                "服务日志信息",
+                "日志信息"
+              ],
+              "scope": "guideline_governed",
+              "api_bound": false
+            }
+          }
+        }
+      }
+    },
+    "补充隐私数据类型": {
+      "id": "root_personal_info",
+      "children": {
+        "用户个人信息": {
+          "id": "identity_info",
+          "terms": [
+            "个人信息",
+            "用户信息"
+          ],
+          "children": {
+            "个人资料": {
+              "id": "personal_info",
+              "terms": [
+                "个人姓名",
+                "身高数据",
+                "年龄",
+                "性别",
+                "出生日期",
+                "民族",
+                "姓名",
+                "生日"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "政府颁发证件": {
+              "id": "govt_id",
+              "terms": [
+                "护照",
+                "驾驶证",
+                "护照号码",
+                "驾驶证号码",
+                "军官证",
+                "港澳通行证",
+                "台胞证",
+                "证件类型",
+                "证件号",
+                "证件号码"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "机构标识": {
+              "id": "org_id",
+              "terms": [
+                "工号",
+                "学号",
+                "工作证",
+                "学生证"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "联系方式": {
+              "id": "contact_info",
+              "terms": [
+                "联系方式",
+                "联系信息",
+                "邮箱",
+                "电子邮箱",
+                "电子邮箱地址",
+                "Email"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "账号信息": {
+              "id": "account_profile",
+              "terms": [
+                "账号信息",
+                "账户信息",
+                "会员名",
+                "用户名",
+                "密码",
+                "第三方账户信息",
+                "微信账号",
+                "微信昵称",
+                "微信头像"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": true,
+              "apis": [
+                "wx.login",
+                "wx.getAccountInfoSync",
+                "wx.qy.login"
+              ],
+              "methods": [
+                "login",
+                "getAccountInfoSync"
+              ]
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "生物特征": {
+          "id": "biometric_info",
+          "terms": [
+            "生物识别信息",
+            "生物特征数据",
+            "生物识别"
+          ],
+          "children": {
+            "面部特征": {
+              "id": "facial_features",
+              "terms": [
+                "人脸",
+                "人脸信息",
+                "面部识别",
+                "人脸识别",
+                "面部信息",
+                "人脸数据"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "指纹特征": {
+              "id": "fingerprint",
+              "terms": [
+                "指纹",
+                "指纹信息"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "其他生物特征": {
+              "id": "other_biometric",
+              "terms": [
+                "声纹",
+                "虹膜",
+                "基因",
+                "声音特征"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "网络信息": {
+          "id": "network_info",
+          "terms": [
+            "网络标识",
+            "网络连接信息"
+          ],
+          "children": {
+            "浏览信息": {
+              "id": "browsing_info",
+              "terms": [
+                "Cookie",
+                "浏览器信息",
+                "浏览记录",
+                "访问记录",
+                "网页浏览历史",
+                "上网记录",
+                "网络日志"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "网络配置": {
+              "id": "network_config",
+              "terms": [
+                "WiFi信息",
+                "WiFi列表",
+                "基站信息",
+                "网络配置",
+                "代理设置"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "行为数据": {
+          "id": "behavior_data",
+          "terms": [
+            "用户行为",
+            "使用记录"
+          ],
+          "children": {
+            "应用使用": {
+              "id": "app_usage",
+              "terms": [
+                "搜索历史",
+                "点击行为",
+                "使用时长",
+                "应用使用情况",
+                "功能使用统计",
+                "页面访问记录",
+                "操作轨迹"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false,
+              "apis": [
+                "wx.getLaunchOptionsSync",
+                "wx.getEnterOptionsSync"
+              ],
+              "methods": [
+                "getLaunchOptionsSync",
+                "getEnterOptionsSync"
+              ]
+            },
+            "偏好设置": {
+              "id": "preferences",
+              "terms": [
+                "交互记录",
+                "使用习惯",
+                "偏好设置",
+                "个性化配置"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "交易数据": {
+          "id": "transaction_data",
+          "terms": [
+            "交易记录",
+            "支付信息"
+          ],
+          "children": {
+            "购买行为": {
+              "id": "purchase_behavior",
+              "terms": [
+                "消费习惯",
+                "购买记录",
+                "消费记录",
+                "购物偏好",
+                "商品浏览记录"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "支付信息": {
+              "id": "payment_info",
+              "terms": [
+                "支付记录",
+                "账单",
+                "交易流水",
+                "支付方式",
+                "收款信息",
+                "退款记录",
+                "价格信息"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "内容数据": {
+          "id": "content_data",
+          "terms": [
+            "用户生成内容"
+          ],
+          "children": {
+            "通信内容": {
+              "id": "communication_content",
+              "terms": [
+                "聊天记录",
+                "短信",
+                "通话记录",
+                "邮件内容",
+                "即时消息"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "用户创作内容": {
+              "id": "user_created_content",
+              "terms": [
+                "文档",
+                "文字内容",
+                "评论",
+                "帖子",
+                "笔记"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "关系数据": {
+          "id": "relationship_data",
+          "terms": [
+            "社交关系",
+            "社交网络"
+          ],
+          "children": {
+            "社交关系": {
+              "id": "social_relations",
+              "terms": [
+                "好友关系",
+                "好友列表",
+                "粉丝信息",
+                "社交图谱",
+                "社交联系人",
+                "分组信息",
+                "互动关系"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "健康数据": {
+          "id": "health_data",
+          "terms": [
+            "健康记录",
+            "健康状况",
+            "医疗健康"
+          ],
+          "children": {
+            "运动健康": {
+              "id": "fitness_data",
+              "terms": [
+                "运动数据",
+                "睡眠数据",
+                "心率",
+                "体重",
+                "运动记录",
+                "健身数据",
+                "卡路里",
+                "血压",
+                "体温"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "医疗信息": {
+              "id": "medical_info",
+              "terms": [
+                "医疗记录",
+                "用药信息",
+                "体检报告",
+                "病历",
+                "就诊记录",
+                "处方信息"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "财务信息": {
+          "id": "financial_info",
+          "terms": [
+            "财务状况",
+            "金融账户"
+          ],
+          "children": {
+            "账户信息": {
+              "id": "account_info",
+              "terms": [
+                "银行卡",
+                "支付宝",
+                "微信支付",
+                "银行账户",
+                "支付账户",
+                "信用卡",
+                "借记卡",
+                "账户余额"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "信用信息": {
+              "id": "credit_info",
+              "terms": [
+                "信用记录",
+                "收入信息",
+                "资产信息",
+                "债务信息",
+                "信用评分",
+                "投资记录"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "设备技术信息": {
+          "id": "device_technical_info",
+          "terms": [
+            "设备技术信息",
+            "设备标识"
+          ],
+          "children": {
+            "设备标识符": {
+              "id": "device_identifiers",
+              "terms": [
+                "IMEI",
+                "MAC地址",
+                "设备ID",
+                "Android ID",
+                "IDFA",
+                "IDFV",
+                "设备序列号",
+                "SIM卡序列号",
+                "OAID",
+                "设备标识"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "应用信息": {
+              "id": "app_info",
+              "terms": [
+                "已安装应用列表",
+                "应用版本",
+                "应用权限",
+                "系统权限"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": false
+            },
+            "设备信息": {
+              "id": "device_info",
+              "terms": [
+                "设备信息",
+                "硬件产品",
+                "计算机",
+                "手机",
+                "手表",
+                "设备型号",
+                "系统信息",
+                "其他设备发送给我们的信息"
+              ],
+              "scope": "policy_supplement",
+              "api_bound": true,
+              "apis": [
+                "wx.getSystemInfo",
+                "wx.getSystemInfoSync",
+                "wx.getNetworkType",
+                "wx.getDeviceInfo",
+                "wx.getWindowInfo",
+                "wx.getAppBaseInfo"
+              ],
+              "methods": [
+                "getSystemInfo",
+                "getSystemInfoSync",
+                "getNetworkType",
+                "getDeviceInfo",
+                "getWindowInfo",
+                "getAppBaseInfo"
+              ]
+            }
+          },
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "未成年人信息": {
+          "id": "minor_info",
+          "terms": [
+            "儿童信息",
+            "未成年人信息",
+            "14周岁以下儿童信息"
+          ],
+          "scope": "policy_supplement",
+          "api_bound": false
+        },
+        "存储数据": {
+          "id": "local_storage_data",
+          "terms": [
+            "本地存储",
+            "本地缓存",
+            "存储数据",
+            "缓存数据",
+            "Local Storage"
+          ],
+          "scope": "policy_supplement",
+          "api_bound": true,
+          "apis": [
+            "wx.getStorageSync",
+            "wx.getStorage"
+          ],
+          "methods": [
+            "getStorageSync",
+            "getStorage"
+          ]
+        }
+      },
+      "scope": "policy_supplement",
+      "api_bound": false
+    }
+  }
+}
