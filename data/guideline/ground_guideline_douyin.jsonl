@@ -1,0 +1,2873 @@
+[
+  {
+    "id": 328,
+    "app_id": "白拿图",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "app_id": "超值好车资讯",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "app_id": "票星球",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "app_id": "黑岩故事会",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "app_id": "识典古籍",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "app_id": "海洋知道课堂",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "app_id": "万花故事会",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "app_id": "古茗茶饮点单",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "app_id": "幸福里找房",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1466,
+    "app_id": "幸福拍",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1468,
+    "app_id": "番茄免费小说",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1469,
+    "app_id": "猫眼电影",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1471,
+    "app_id": "中出行出租车",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1472,
+    "app_id": "丰巢洗护",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1473,
+    "app_id": "巨好房",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1474,
+    "app_id": "疯狂图库",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1475,
+    "app_id": "纷玩岛",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1477,
+    "app_id": "利租车",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1478,
+    "app_id": "星合看点",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1479,
+    "app_id": "懂车帝",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1480,
+    "app_id": "瑞幸咖啡点单",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "WIFI状态",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1482,
+    "app_id": "黑猫投诉",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1484,
+    "app_id": "极融",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "日历",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2739,
+    "app_id": "中国南方航空",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2740,
+    "app_id": "新浪财经",
+    "privacy_items": []
+  },
+  {
+    "id": 2741,
+    "app_id": "红果剧场",
+    "privacy_items": []
+  },
+  {
+    "id": 2742,
+    "app_id": "菜鸟裹裹",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2743,
+    "app_id": "哈啰租车",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2745,
+    "app_id": "小拉出行",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2747,
+    "app_id": "高德打车",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2748,
+    "app_id": "春秋航空",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2749,
+    "app_id": "神图壁纸",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2751,
+    "app_id": "黄金天眼",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2752,
+    "app_id": "顺丰同城",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2753,
+    "app_id": "华夏航空",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2754,
+    "app_id": "车商记",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2755,
+    "app_id": "乐租星",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2756,
+    "app_id": "企查查",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2757,
+    "app_id": "咪咕视频",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2758,
+    "app_id": "大润发",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2759,
+    "app_id": "街电充电宝",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2760,
+    "app_id": "分期乐",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "日历",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "人脸识别",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2761,
+    "app_id": "悦时光",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2763,
+    "app_id": "爱奇艺",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2764,
+    "app_id": "小鹅通微店",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2765,
+    "app_id": "机星人",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "人脸识别",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2766,
+    "app_id": "画音阁",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "人脸识别",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "WIFI状态",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "钱包实名认证",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2767,
+    "app_id": "一嗨租车",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2768,
+    "app_id": "淘票票",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "日历",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2769,
+    "app_id": "放心借",
+    "privacy_items": []
+  }
+]
