@@ -124,7 +124,7 @@ def validate_paired_source_app_ids(cfg, app_id: str | None = None) -> None:
         if app_id not in policy_ids:
             missing.append("policy")
         if missing:
-            raise ValueError(f"app_id={app_id} 缺少配对源文档: {', '.join(missing)}")
+            raise ValueError(f"app_id={app_id} is missing paired source documents: {', '.join(missing)}")
         return
 
     only_guide = sorted(guide_ids - policy_ids)
@@ -151,12 +151,12 @@ def run_policy_extraction(cfg, app_id: str | None = None, app_ids: set[str] | No
     strict_pairing = getattr(cfg, "dataset", "") == "large"
     missing_policy_ids = guide_ids - policy_ids
     if strict_pairing and missing_policy_ids:
-        raise ValueError(f"large 数据集存在 guideline 但缺少 policy: {sorted(missing_policy_ids)[:20]} (total={len(missing_policy_ids)})")
+        raise ValueError(f"large dataset has guidelines without matching policies: {sorted(missing_policy_ids)[:20]} (total={len(missing_policy_ids)})")
     if strict_pairing:
         policy_data = {aid: text for aid, text in policy_data.items() if aid in common_ids}
 
     if app_id and app_id not in common_ids:
-        raise ValueError(f"app_id 不匹配或缺失: {app_id}")
+        raise ValueError(f"app_id is missing or not paired: {app_id}")
 
     ontology_base = OntologyBase(cfg)
     llm = LLMWrapper(cfg)
@@ -190,7 +190,7 @@ def run_guideline_pipeline(run_tag: str, app_id: str | None = None, app_ids: set
     if app_ids is not None:
         guide_data = {aid: text for aid, text in guide_data.items() if aid in app_ids}
     if app_id and not guide_data:
-        raise ValueError(f"guideline 不存在或为空: {app_id}")
+        raise ValueError(f"guideline is missing or empty: {app_id}")
 
     ontology_base = OntologyBase(cfg)
     if cfg.source == "alipay":
