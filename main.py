@@ -33,27 +33,14 @@ def has_fresh_extraction_result(result_path: str, source_path: str) -> bool:
     return os.path.getmtime(result_path) >= os.path.getmtime(source_path)
 
 
-def _txt_app_ids(dir_path: str) -> set[str]:
-    if not os.path.isdir(dir_path):
-        return set()
-    return {
-        os.path.splitext(name)[0].strip()
-        for name in os.listdir(dir_path)
-        if name.endswith(".txt") and os.path.splitext(name)[0].strip()
-    }
-
-
 def _platform_from_cfg(cfg) -> str:
-    source = getattr(cfg, "source", "")
-    return getattr(cfg, "platform_source", None) or ("wechat" if source == "large" else source)
+    return getattr(cfg, "platform_source", None) or getattr(cfg, "source", "")
 
 
 def _default_code_dir(cfg) -> str:
     env_dir = os.getenv("CODE_DIR") or os.getenv("APP_CODE_DIR") or os.getenv("PRIVGAP_APP_SOURCE")
     if env_dir:
         return os.path.abspath(os.path.expanduser(env_dir))
-    if getattr(cfg, "dataset", "") == "large":
-        return os.path.join(cfg.DATA_DIR, "large", "code", "decompile")
     return os.path.join(cfg.DATA_DIR, "code", _platform_from_cfg(cfg))
 
 
@@ -114,49 +101,12 @@ def _copy_filtered_extractions(output_dir: str, app_ids: set[str]) -> str:
     return dst_root
 
 
-def validate_paired_source_app_ids(cfg, app_id: str | None = None) -> None:
-    guide_ids = _txt_app_ids(cfg.GUIDE_DIR)
-    policy_ids = _txt_app_ids(cfg.POLICY_DIR)
-    if app_id:
-        missing = []
-        if app_id not in guide_ids:
-            missing.append("guideline")
-        if app_id not in policy_ids:
-            missing.append("policy")
-        if missing:
-            raise ValueError(f"app_id={app_id} is missing paired source documents: {', '.join(missing)}")
-        return
-
-    only_guide = sorted(guide_ids - policy_ids)
-    only_policy = sorted(policy_ids - guide_ids)
-    if only_guide or only_policy:
-        raise ValueError(
-            "Paired source app set mismatch. "
-            f"only_guideline={len(only_guide)}, only_policy={len(only_policy)}. "
-            f"examples_only_guideline={only_guide[:10]}, examples_only_policy={only_policy[:10]}."
-        )
-
-
 def run_policy_extraction(cfg, app_id: str | None = None, app_ids: set[str] | None = None):
     policy_data = load_texts_from_dir(cfg.POLICY_DIR, app_id=app_id)
-    guide_data = load_texts_from_dir(cfg.GUIDE_DIR, app_id=app_id)
     if app_ids is not None:
         policy_data = {aid: text for aid, text in policy_data.items() if aid in app_ids}
-        guide_data = {aid: text for aid, text in guide_data.items() if aid in app_ids}
-
-    policy_ids = set(policy_data.keys())
-    guide_ids = set(guide_data.keys())
-    common_ids = policy_ids & guide_ids
-
-    strict_pairing = getattr(cfg, "dataset", "") == "large"
-    missing_policy_ids = guide_ids - policy_ids
-    if strict_pairing and missing_policy_ids:
-        raise ValueError(f"large dataset has guidelines without matching policies: {sorted(missing_policy_ids)[:20]} (total={len(missing_policy_ids)})")
-    if strict_pairing:
-        policy_data = {aid: text for aid, text in policy_data.items() if aid in common_ids}
-
-    if app_id and app_id not in common_ids:
-        raise ValueError(f"app_id is missing or not paired: {app_id}")
+    if app_id and app_id not in policy_data:
+        raise ValueError(f"policy is missing or empty: {app_id}")
 
     ontology_base = OntologyBase(cfg)
     llm = LLMWrapper(cfg)
@@ -251,21 +201,17 @@ def main():
     run_tag_suffix = os.getenv("RUN_TAG_SUFFIX", "").strip()
     disable_semantic_ontology_fallback = os.getenv("DISABLE_SEMANTIC_ONTOLOGY_FALLBACK", "").strip().lower() in {"1", "true", "yes", "y"}
     use_semantic_ontology_fallback = not disable_semantic_ontology_fallback
-    consistency_app_id_scope = "intersection"
     guide_run_tag_base = os.getenv("GUIDE_RUN_TAG", "guide").strip()
     tag_cfg = Config()
-    is_large_dataset = getattr(tag_cfg, "dataset", "") == "large" or getattr(tag_cfg, "source", "") == "large"
-    if is_large_dataset:
-        validate_paired_source_app_ids(tag_cfg, app_id=args.app_id)
 
     code_dir = os.path.abspath(os.path.expanduser(args.code_dir)) if args.code_dir else _default_code_dir(tag_cfg)
     platform_for_code = _platform_from_cfg(tag_cfg)
     code_id_map = _code_app_id_map(code_dir, platform_for_code)
-    code_ids = set(code_id_map)
-    paired_source_ids = _txt_app_ids(tag_cfg.GUIDE_DIR) & _txt_app_ids(tag_cfg.POLICY_DIR)
-    code_app_ids = code_ids & paired_source_ids
+    code_app_ids = set(code_id_map)
     if args.app_id:
-        code_app_ids = {args.app_id} & code_app_ids
+        if args.app_id not in code_id_map:
+            raise ValueError(f"app_id is missing from code directory: {args.app_id}")
+        code_app_ids = {args.app_id}
     if not code_app_ids:
         raise ValueError("No mini-apps selected for this run.")
     flow_code_app_ids = {code_id_map[aid] for aid in code_app_ids if aid in code_id_map}
@@ -290,10 +236,9 @@ def main():
 
     model_tag = tag_cfg.safe_path_part(tag_cfg.get_llm_model_name())
     policy_run_tag = build_run_tag(model_tag)
-    base_consistency_tag = build_run_tag(f"{model_tag}_base")
     ontology_consistency_tag = build_run_tag(f"{model_tag}_ontology")
 
-    scoped_app_ids = code_app_ids or ({args.app_id} if args.app_id else None)
+    scoped_app_ids = code_app_ids
     flow_platform = _platform_from_cfg(tag_cfg)
     if flow_platform not in {"wechat", "alipay", "douyin"}:
         raise ValueError(f"flow-analysis only supports wechat/alipay/douyin, got: {flow_platform}")
@@ -327,10 +272,8 @@ def main():
         platform=getattr(ontology_cfg, "platform_source", ontology_cfg.source),
         guide_dir=guide_extractions_dir,
         policy_dir=base_policy_extractions_dir,
-        out_dir=ontology_consistency_dir(f"{base_consistency_tag}_guide_policy"),
         use_ontology_alignment=False,
         use_semantic_fallback=False,
-        app_id_scope=consistency_app_id_scope,
         app_ids=scoped_app_ids,
     )
 
@@ -338,10 +281,8 @@ def main():
         platform=getattr(ontology_cfg, "platform_source", ontology_cfg.source),
         guide_dir=guide_extractions_dir,
         policy_dir=base_policy_extractions_dir,
-        out_dir=ontology_consistency_dir(f"{ontology_consistency_tag}_guide_policy"),
         use_ontology_alignment=True,
         use_semantic_fallback=use_semantic_ontology_fallback,
-        app_id_scope=consistency_app_id_scope,
         app_ids=scoped_app_ids,
     )
 

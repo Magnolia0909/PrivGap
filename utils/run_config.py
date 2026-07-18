@@ -1,14 +1,11 @@
 import os
-
 from config.config import Config
 
 ENTITY_STAGE = "entity_extraction"
 ONTOLOGY_STAGE = "ontology_consistency"
 
-
 def get_run_stage(use_ontology: bool) -> str:
     return ONTOLOGY_STAGE if use_ontology else ENTITY_STAGE
-
 
 def build_policy_config(run_tag: str, use_ontology: bool):
     cfg = Config()
@@ -22,7 +19,6 @@ def build_policy_config(run_tag: str, use_ontology: bool):
     cfg.use_ontology_normalization = use_ontology
     return cfg
 
-
 def build_guideline_config(run_tag: str):
     cfg = Config()
     cfg.OUTPUT_DIR = cfg.get_stage_run_output_dir(ENTITY_STAGE, run_tag)
@@ -31,7 +27,6 @@ def build_guideline_config(run_tag: str):
     cfg.test_result_dir = os.path.join(cfg.OUTPUT_DIR, "extractions")
     cfg.use_ontology_normalization = False
     return cfg
-
 
 def build_ontology_config(run_tag: str):
     cfg = Config()
