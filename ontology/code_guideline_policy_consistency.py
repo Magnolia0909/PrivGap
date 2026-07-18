@@ -1,20 +1,13 @@
 from __future__ import annotations
-import argparse
-import csv
 import json
-import os
 import re
-import sys
 from pathlib import Path
 from statistics import mean
 from typing import Dict, Iterable, List, Optional, Set, Tuple
-from config.config import Config
 from ontology.ontology_base import OntologyBase
 from ontology.ontology_normalizer import OntologyNormalizer
 from ontology.guideline_policy_consistency import (
     _build_cfg,
-    _default_guide_dir,
-    _default_policy_dir,
     _select_controller_scope_policy_items,
     _load_privacy_items_dir,
     _normalize_items,
@@ -30,7 +23,6 @@ def compare_three_way(
     out_dir: str,
     use_semantic_fallback: bool | None = None,
     use_controller_scope: bool = True,
-    app_id_filter: Optional[Set[str]] = None,
 ) -> dict:
     cfg = _build_cfg(platform)
     if use_semantic_fallback is not None:
@@ -44,9 +36,6 @@ def compare_three_way(
         policy_items = _select_controller_scope_policy_items(policy_items)
     code_items = _load_code_outputs(code_dir)
     app_ids = sorted(code_items)
-    if app_id_filter is not None:
-        allowed = set(app_id_filter)
-        app_ids = [aid for aid in app_ids if aid in allowed]
 
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
@@ -749,67 +738,3 @@ def _build_global_summary(platform: str, app_results: List[dict]) -> dict:
 def _write_json(path: Path, data) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-
-def _default_code_dir(cfg: Config) -> str:
-    return os.path.join(cfg.RESULTS_ROOT, "flow_analysis", "final", "static_only")
-
-def _default_three_way_out_dir(cfg: Config) -> str:
-    return os.path.join(cfg.RESULTS_ROOT, "ontology_consistency", "code_guideline_policy_static_only")
-
-def _load_app_id_filter_csv(path: str, platform: str) -> Set[str]:
-    app_ids: Set[str] = set()
-    with open(path, "r", encoding="utf-8-sig", newline="") as f:
-        first_line = f.readline()
-        f.seek(0)
-        has_header = "app_id" in first_line.strip().split(",")
-        if has_header:
-            reader = csv.DictReader(f)
-            for row in reader:
-                row_platform = str(row.get("platform") or "").strip()
-                app_id = str(row.get("app_id") or "").strip()
-                if app_id and (not row_platform or row_platform == platform):
-                    app_ids.add(app_id)
-        else:
-            for line in f:
-                app_id = line.strip()
-                if app_id:
-                    app_ids.add(app_id)
-    return app_ids
-
-def main() -> None:
-    parser = argparse.ArgumentParser(description="Three-way ontology consistency among code, guideline, and policy.")
-    default_cfg = Config()
-    parser.add_argument("--platform", choices=["wechat", "alipay", "tiktok"], default=default_cfg.source, help="Default: Config().source.")
-    parser.add_argument("--code-dir", default=None, help="flow_analysis final output dir containing per-app JSON files. Default: results/<source>/flow_analysis/final/static_only.")
-    parser.add_argument("--guide-dir", default=None, help="Directory containing guide *_privacy_items.json or parent extractions dir. Default: results/<source>/entity_extraction/guide/extractions.")
-    parser.add_argument("--policy-dir", default=None, help="Directory containing policy *_privacy_items.json or parent extractions dir. Default: results/<source>/entity_extraction/<configured-model>/extractions.")
-    parser.add_argument("--out", default=None, help="Output directory for three-way consistency results. Default: results/<source>/ontology_consistency/code_guideline_policy_static_only.")
-    parser.add_argument("--no-semantic-fallback", action="store_true", help="Disable local SentenceTransformer ontology fallback.")
-    parser.add_argument("--keep-third-party-policy", action="store_true", help="Keep policy items whose recipients are explicit third parties. Default filters them before alignment.")
-    parser.add_argument("--app-id-csv", default=None, help="Optional CSV/list of app ids to evaluate. If a platform column exists, only rows for --platform are used.")
-    args = parser.parse_args()
-
-    cfg = Config()
-    if args.platform != cfg.source:
-        cfg.source = args.platform
-        cfg._apply_source_paths(args.platform)
-    code_dir = args.code_dir or _default_code_dir(cfg)
-    guide_dir = args.guide_dir or _default_guide_dir(cfg)
-    policy_dir = args.policy_dir or _default_policy_dir(cfg)
-    out_dir = args.out or _default_three_way_out_dir(cfg)
-    app_id_filter = _load_app_id_filter_csv(args.app_id_csv, args.platform) if args.app_id_csv else None
-
-    result = compare_three_way(
-        platform=args.platform,
-        code_dir=code_dir,
-        guide_dir=guide_dir,
-        policy_dir=policy_dir,
-        out_dir=out_dir,
-        use_semantic_fallback=not args.no_semantic_fallback,
-        use_controller_scope=not args.keep_third_party_policy,
-        app_id_filter=app_id_filter,
-    )
-    print(json.dumps(result["global_summary"], ensure_ascii=False, indent=2))
-
-if __name__ == "__main__":
-    main()

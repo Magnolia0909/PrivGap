@@ -282,7 +282,6 @@ def main():
         policy_dir=base_policy_extractions_dir,
         out_dir=code_consistency_out,
         use_semantic_fallback=use_semantic_ontology_fallback,
-        app_id_filter=scoped_app_ids,
     )
 
 if __name__ == "__main__":
