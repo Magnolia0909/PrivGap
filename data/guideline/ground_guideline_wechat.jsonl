@@ -1,0 +1,3721 @@
+[
+  {
+    "id": 231,
+    "app_id": "wxd4ff6b6129a564d3",
+    "privacy_items": [
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "app_id": "wxe3e77f0c3acf3436",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "app_id": "wx03ca7dc785499e0d",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "那个校园"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "app_id": "wx52e4ba1e8fddd0cb",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "坤悦健康"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "app_id": "wx3add716617862258",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "app_id": "wx25053a7638a508dc",
+    "privacy_items": [
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "app_id": "wxf03d4e2be7161cc5",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "app_id": "wx12352bc4d9a40f1e",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "囍搭子丨喜搭子丨找搭子丨搭子"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "囍搭子丨喜搭子丨找搭子丨搭子"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "app_id": "wx059cd327295ab444",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "邮箱",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "操作日志",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "所关注账号",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "订单信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "群接龙"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "app_id": "wxeb13e85bef8b60d9",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "app_id": "wx771410a91d6e6735",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "成家相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "app_id": "wxd0529f74383bd44f",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "app_id": "wxd7a173b1f705289d",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "lingxi活动"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "lingxi活动"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "lingxi活动"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "lingxi活动"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "app_id": "wxcf4eefaa8b8d5660",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "脱单宝"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "app_id": "wx353ce1d22e618d55",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "app_id": "wxff83e5869003ba16",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "app_id": "wxb99affee7f626dd8",
+    "privacy_items": [
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "智赛通"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "app_id": "wx7b2444f167ed73f3",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "神木小红娘"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "app_id": "wxc895b3f27f64ad04",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "app_id": "wx788f5daad54eb854",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "青藤之恋"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "app_id": "wxe0ee72471dcb8784",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "app_id": "wx704612e15eea7e65",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "皖美之约"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "app_id": "wxc9671f10bc01c51e",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          " 父母牵线"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "app_id": "wx153356ea71fef48f",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "父母为媒"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "app_id": "wx95da39255f4771d3",
+    "privacy_items": [
+      {
+        "data_type": "地址",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "app_id": "wx454addfc6819a2ac",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "探探糖"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "app_id": "wxd0ad7e76d51ae4cc",
+    "privacy_items": [
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "鹅圈子"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "app_id": "wxcce6440ef3727704",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "好游快爆社区"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "好游快爆社区"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "好游快爆社区"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "app_id": "wx560bcf0c2bbb16a8",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "墙墙墙"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "app_id": "wx90e9fd2e4a266bb1",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "app_id": "wxcdae8e058cd572cf",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "app_id": "wx3921ddb0258ff14f",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "app_id": "wxd11f55bff273865e",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "府州良缘"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "app_id": "wx901a43576e652ff0",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "app_id": "wxbd784206ce3b0e17",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "app_id": "wxf8840640ba62c980",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "乃票"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "app_id": "wx90266743f81c2594",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "磁场传感器",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "app_id": "wxef837576a7a709bf",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "校园猹话会"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "app_id": "wxdbf2b50ca37c30c0",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "加速传感器",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "二狗App"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "app_id": "wxcb078dc119ba4376",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "app_id": "wx28102bc4e0d951a5",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "往后余生平台"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "app_id": "wxfac7aed465910642",
+    "privacy_items": [
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "便民贴"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "app_id": "wx2b3db5a0ae4210e7",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "果动赛事"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "app_id": "wxd09b66f78f44677d",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "You意思脱单"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "app_id": "wxa588e7bb87106284",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "大濮相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "app_id": "wxdc718bdd2469106d",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "纸条儿故事会"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "纸条儿故事会"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "纸条儿故事会"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "app_id": "wx70d65d2170dbacd7",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "订单信息",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "完美亲家"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "app_id": "wx51091d4d0fd0b54d",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "榆见爱情"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "app_id": "wxde8ac0a21135c07d",
+    "privacy_items": [
+      {
+        "data_type": "地址",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "磁场传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "陀螺仪传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "通讯录（仅写入）权限",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "方向传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "加速传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "app_id": "wx621b87e4b2b83e10",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "app_id": "wx125eb90fa89a6287",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "搜电"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "app_id": "wxb57627a2a7e9cb59",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "app_id": "wxb1a70937ee94c194",
+    "privacy_items": [
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "app_id": "wx3a16e827ce13e026",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "KO台球"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "KO台球"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "KO台球"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "app_id": "wx8576387151da636a",
+    "privacy_items": [
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "app_id": "wx8f5901dc7878cbb8",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "操作日志",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "app_id": "wxdbee9b9d855d6263",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "通讯录（仅写入）权限",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "app_id": "wxbf81ce9e3b024432",
+    "privacy_items": [
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "app_id": "wx677327d7211fb614",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "安康城恋"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "app_id": "wxc2ffd136a01eb4e0",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "app_id": "wx747d5beb5d5e7b02",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "操作日志",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "所关注账号",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "问止精一书院"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "app_id": "wx6617c33885d9dde1",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "小象脱单"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "小象脱单"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "app_id": "wx642b23089f7cf86f",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "app_id": "wxdbb4c5f1b8ee7da1",
+    "privacy_items": [
+      {
+        "data_type": "方向传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "陀螺仪传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "磁场传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "加速传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "发票信息",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "app_id": "wxfa90c4a7e3e3e2d4",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "孩缘相亲婚恋婚介网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "孩缘相亲婚恋婚介网"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "孩缘相亲婚恋婚介网"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "app_id": "wxe86b3a420b7be125",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "app_id": "wx6d1d56ee7a4f21b9",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "订单信息",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "所关注账号",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "app_id": "wx2e2e477331ac1949",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "app_id": "wxdb43cddae6348fe5",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "app_id": "wxbf0f568ebbde45ee",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "徐州月老"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "app_id": "wx5fffb4ba725cbe98",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "app_id": "wxfab91807ab94ce0c",
+    "privacy_items": []
+  }
+]

@@ -1,0 +1,4136 @@
+[
+  {
+    "id": 14,
+    "app_id": "收钱吧",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "app_id": "捷停车",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "app_id": "安代驾",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "app_id": "可牛租车Pro",
+    "privacy_items": [
+      {
+        "data_type": "相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "app_id": "U净",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "app_id": "蜜雪冰城",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "app_id": "天翼超高清",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "app_id": "淘票票",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "app_id": "一嗨租车",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "选择相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "app_id": "极氪订阅",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "app_id": "叮达出行",
+    "privacy_items": [
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "app_id": "青团社兼职",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "数据时间",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "步数值",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "时区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名和证件号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "app_id": "老乡鸡",
+    "privacy_items": [
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "发票",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "app_id": "绿城物业服务",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "app_id": "滴滴出行",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "app_id": "吾悦广场集团小程序",
+    "privacy_items": [
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "发票",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "车牌号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "app_id": "易捷加油",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "app_id": "85度C点餐",
+    "privacy_items": [
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "app_id": "DQ小程序",
+    "privacy_items": [
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "app_id": "倍电科技",
+    "privacy_items": [
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "app_id": "e代驾",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "app_id": "必胜客小程序",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "app_id": "大方租车",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "app_id": "福禄优惠供货小程序",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "app_id": "哈啰",
+    "privacy_items": [
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "选择相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "app_id": "国际快递邮小哥",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "app_id": "哈根达斯官方小程序",
+    "privacy_items": [
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "app_id": "鸿运达租机",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "app_id": "惠租",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "数据时间",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "步数值",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "时区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名和证件号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "app_id": "货拉拉-拉货搬家跑腿货运物流",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "数据时间",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "步数值",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "时区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "文件",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "app_id": "客如云服务",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "app_id": "蓝犀牛搬家",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "app_id": "咖租机-德玄",
+    "privacy_items": [
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "app_id": "美团跑腿",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "app_id": "牛牛免押",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "app_id": "平安消费金融",
+    "privacy_items": [
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "app_id": "屈臣氏",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "app_id": "去哪儿租车",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "app_id": "闪送-同城最快27分钟送达",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "app_id": "台陸通",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省份名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "app_id": "同程订酒店机票火车票门票拼车",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）、相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "app_id": "吾饮良品水果茶手机点单",
+    "privacy_items": [
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "app_id": "吸刻点单",
+    "privacy_items": [
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "临时文件",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "订单",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址列表区域编码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址的联系人移动电话",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否默认收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货人全名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "当前地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "电话号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "app_id": "掌上高考",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "app_id": "尊享先锋服务平台",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名和证件号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "app_id": "想家社区",
+    "privacy_items": [
+      {
+        "data_type": "保存到相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "选择相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "app_id": "驿公里洗车",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "app_id": "小龙坎火锅小程序",
+    "privacy_items": [
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户编码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否默认收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "app_id": "铁行租车",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "app_id": "兼职侠-求职找工作",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "实名认证状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "app_id": "星空岛租包",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "app_id": "悟空租车",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "app_id": "掌上考研",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "app_id": "天鹅到家-家政保洁保姆月嫂",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "app_id": "神州租车",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "人脸信息采集",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝登录名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "app_id": "胖乖生活",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "app_id": "芒果TV会员-蜂助手",
+    "privacy_items": [
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "app_id": "QB充值-福禄",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  }
+]
