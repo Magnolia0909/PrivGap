@@ -47,7 +47,7 @@ shown above.
 
 ### Unpack mini-app Code
 
-PrivGap runs static analysis on unpacked mini-app source code. For WeChat, we used `wedecode` to unpack `.wxapkg` packages before running the pipeline.
+PrivGap runs static analysis on unpacked mini-app source code. For WeChat, we used `wedecode` to unpack `.wxapkg` packages. For tiktok, we used `ttpkgUnpacker` to unpack. For alipay, it can be directly unpack.
 
 ## Configuration
 
