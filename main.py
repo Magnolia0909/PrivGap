@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from config.config import Config
 from extractor.guide_extractor_wechat import GuideExtractorWechat
 from extractor.guide_extractor_alipay import GuideExtractorAlipay
-from extractor.guide_extractor_douyin import GuideExtractorDouyin
+from extractor.guide_extractor_tiktok import GuideExtractortiktok
 from extractor.policy_extractor import PolicyExtractor
 from extractor.llm_wrapper import LLMWrapper
 from ontology.ontology_base import OntologyBase
@@ -24,7 +24,6 @@ from flow_analysis.config import default_pred_csv as default_flow_pred_csv
 from flow_analysis.csv_io import write_csv as save_taint_chains_csv
 from flow_analysis.pipeline import run_platform as run_flow_platform
 
-
 def has_fresh_extraction_result(result_path: str, source_path: str) -> bool:
     if not has_valid_extraction_result(result_path):
         return False
@@ -32,17 +31,14 @@ def has_fresh_extraction_result(result_path: str, source_path: str) -> bool:
         return True
     return os.path.getmtime(result_path) >= os.path.getmtime(source_path)
 
-
 def _platform_from_cfg(cfg) -> str:
     return getattr(cfg, "platform_source", None) or getattr(cfg, "source", "")
-
 
 def _default_code_dir(cfg) -> str:
     env_dir = os.getenv("CODE_DIR") or os.getenv("APP_CODE_DIR") or os.getenv("PRIVGAP_APP_SOURCE")
     if env_dir:
         return os.path.abspath(os.path.expanduser(env_dir))
     return os.path.join(cfg.DATA_DIR, "code", _platform_from_cfg(cfg))
-
 
 def _extract_code_app_id(dir_name: str, platform: str) -> str:
     name = dir_name.strip()
@@ -52,7 +48,7 @@ def _extract_code_app_id(dir_name: str, platform: str) -> str:
     parts = [part.strip() for part in name.split("_") if part.strip()]
     if platform == "wechat":
         return name
-    if platform == "douyin":
+    if platform == "tiktok":
         if len(parts) > 1 and parts[-1].startswith("tt"):
             return "_".join(parts[:-1])
         return name
@@ -61,7 +57,6 @@ def _extract_code_app_id(dir_name: str, platform: str) -> str:
         if match:
             return match.group(1).strip()
     return name
-
 
 def _code_app_id_map(code_dir: str, platform: str) -> dict[str, str]:
     if not os.path.isdir(code_dir):
@@ -75,7 +70,6 @@ def _code_app_id_map(code_dir: str, platform: str) -> dict[str, str]:
         if app_id:
             app_ids[app_id] = name
     return app_ids
-
 
 def _copy_filtered_extractions(output_dir: str, app_ids: set[str]) -> str:
     src_root = os.path.join(output_dir, "extractions")
@@ -99,7 +93,6 @@ def _copy_filtered_extractions(output_dir: str, app_ids: set[str]) -> str:
             os.makedirs(dst_dir, exist_ok=True)
             shutil.copy2(src, os.path.join(dst_dir, fname))
     return dst_root
-
 
 def run_policy_extraction(cfg, app_id: str | None = None, app_ids: set[str] | None = None):
     policy_data = load_texts_from_dir(cfg.POLICY_DIR, app_id=app_id)
@@ -132,7 +125,6 @@ def run_policy_extraction(cfg, app_id: str | None = None, app_ids: set[str] | No
         for future in as_completed(futures):
             future.result()
 
-
 def run_guideline_pipeline(run_tag: str, app_id: str | None = None, app_ids: set[str] | None = None):
     cfg = build_guideline_config(run_tag)
 
@@ -145,8 +137,8 @@ def run_guideline_pipeline(run_tag: str, app_id: str | None = None, app_ids: set
     ontology_base = OntologyBase(cfg)
     if cfg.source == "alipay":
         guide_extractor = GuideExtractorAlipay(cfg, ontology_base)
-    elif cfg.source == "douyin":
-        guide_extractor = GuideExtractorDouyin(cfg, ontology_base)
+    elif cfg.source == "tiktok":
+        guide_extractor = GuideExtractortiktok(cfg, ontology_base)
     else:
         guide_extractor = GuideExtractorWechat(cfg, ontology_base)
 
@@ -175,7 +167,6 @@ def run_guideline_pipeline(run_tag: str, app_id: str | None = None, app_ids: set
 
     return guide_extractions_dir
 
-
 def run_flow_analysis_pipeline(
     platform: str,
     app_ids: set[str] | None = None,
@@ -185,7 +176,6 @@ def run_flow_analysis_pipeline(
     pred_csv.parent.mkdir(parents=True, exist_ok=True)
     save_taint_chains_csv(chains, pred_csv)
     return {"pred_csv": pred_csv}
-
 
 def main():
     parser = argparse.ArgumentParser()
@@ -240,8 +230,8 @@ def main():
 
     scoped_app_ids = code_app_ids
     flow_platform = _platform_from_cfg(tag_cfg)
-    if flow_platform not in {"wechat", "alipay", "douyin"}:
-        raise ValueError(f"flow-analysis only supports wechat/alipay/douyin, got: {flow_platform}")
+    if flow_platform not in {"wechat", "alipay", "tiktok"}:
+        raise ValueError(f"flow-analysis only supports wechat/alipay/tiktok, got: {flow_platform}")
     flow_run = run_flow_analysis_pipeline(
         flow_platform,
         app_ids=flow_code_app_ids,
@@ -259,13 +249,11 @@ def main():
 
     guide_tag = build_guide_run_tag()
     guide_extractions_dir = run_guideline_pipeline(guide_tag, app_id=args.app_id, app_ids=code_app_ids)
-
     cfg = build_policy_config(policy_run_tag, False)
     run_policy_extraction(cfg, app_id=args.app_id, app_ids=code_app_ids)
     base_policy_extractions_dir = os.path.join(cfg.OUTPUT_DIR, "extractions")
     if code_app_ids is not None:
         base_policy_extractions_dir = _copy_filtered_extractions(cfg.OUTPUT_DIR, code_app_ids)
-
     ontology_cfg = build_ontology_config(ontology_consistency_tag)
 
     compare_extraction_dirs(
@@ -276,7 +264,6 @@ def main():
         use_semantic_fallback=False,
         app_ids=scoped_app_ids,
     )
-
     compare_extraction_dirs(
         platform=getattr(ontology_cfg, "platform_source", ontology_cfg.source),
         guide_dir=guide_extractions_dir,
@@ -297,8 +284,6 @@ def main():
         use_semantic_fallback=use_semantic_ontology_fallback,
         app_id_filter=scoped_app_ids,
     )
-
-
 
 if __name__ == "__main__":
     main()
