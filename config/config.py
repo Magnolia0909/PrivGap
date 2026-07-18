@@ -51,7 +51,7 @@ class Config:
 
     def __init__(self):
         self.source = os.getenv("SOURCE", self.source).strip().lower()
-        if self.source not in {"wechat", "douyin", "alipay", "large"}:
+        if self.source not in {"wechat", "tiktok", "alipay", "large"}:
             raise ValueError(f"Unsupported source: {self.source}")
 
         self.dataset = (

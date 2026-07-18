@@ -24,8 +24,7 @@ pip install requests urllib3 coloredlogs json-repair torch transformers sentence
 
 ```text
 config/                 Runtime configuration
-data/                   Ontologies and optional review/evaluation data
-data/data_process/      Loaders and shared data structures
+data/                   Loaders and shared data
 extractor/              Guideline and policy extraction
 flow_analysis/          Static mini-app data-flow analysis
 utils/                  Shared IO and text helpers
