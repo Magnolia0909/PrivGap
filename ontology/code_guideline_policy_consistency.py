@@ -31,7 +31,7 @@ def compare_three_way(
     normalizer = OntologyNormalizer(kb)
 
     guide_items = _load_privacy_items_dir(_resolve_items_dir(guide_dir, "guide", ["guide"]))
-    policy_items = _load_privacy_items_dir(_resolve_items_dir(policy_dir, "policy", ["policy_llm", "policy", "policy_llm_ner"]))
+    policy_items = _load_privacy_items_dir(_resolve_items_dir(policy_dir, "policy", ["policy"]))
     if use_controller_scope:
         policy_items = _select_controller_scope_policy_items(policy_items)
     code_items = _load_code_outputs(code_dir)
