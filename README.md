@@ -64,18 +64,10 @@ Supported values are `wechat`, `alipay` and `tiktok`.
 The public artifact does not contain real API keys. Replace the placeholder values in `config/config.py`, or provide credentials through environment variables:
 
 ```bash
-export LLM_BACKEND=claude
+export LLM_BACKEND=model-name
 export LLM_API_KEY=replace-with-your-api-key
 export LLM_API=replace-with-your-api-base-url
 export LLM_MODEL_NAME=replace-with-your-model-name
-```
-
-Backend-specific variables are also supported:
-
-```bash
-export LLM_API_KEY_CLAUDE=replace-with-your-api-key
-export LLM_API_CLAUDE=replace-with-your-api-base-url
-export LLM_MODEL_NAME_CLAUDE=replace-with-your-model-name
 ```
 
 ## Usage
