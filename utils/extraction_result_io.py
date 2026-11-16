@@ -1,6 +1,6 @@
 import json
 import os
-from data.data_process.data_structures import ExtractionResult
+from annotated_data import ExtractionResult
 
 def get_extraction_output_dir(cfg, doc_type: str, doc_subdir: str | None = None) -> str:
     if doc_subdir:

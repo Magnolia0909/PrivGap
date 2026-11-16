@@ -43,10 +43,8 @@ class Config:
     DATA_DIR = os.path.join(PROJECT_ROOT, "data")
     POLICY_DIR = os.path.join(DATA_DIR, "policy", "wechat_policy")
     GUIDE_DIR = os.path.join(DATA_DIR, "guideline", "wechat_guideline")
-    RESULTS_ROOT = os.path.join(PROJECT_ROOT, "results", "wechat")
-    OUTPUT_DIR = RESULTS_ROOT
 
-    ontology_base_file = "knowledge_ontology_wechat.json"
+    ontology_base_file = "knowledge_ontology.json"
     use_ontology_normalization = True
 
     def __init__(self):

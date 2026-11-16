@@ -2,7 +2,7 @@ import re
 import time
 import coloredlogs, logging
 from typing import List, Optional
-from data.data_process.data_structures import PrivacyItem, ExtractionResult
+from annotated_data import PrivacyItem, ExtractionResult
 from utils.text_utils import extract_sentences
 
 class GuideExtractorWechat:
@@ -48,7 +48,7 @@ class GuideExtractorWechat:
         for i, match in enumerate(matches_a):
             purpose, method, data_type = match.group(1), match.group(2), match.group(3)
             item = PrivacyItem(
-                data_type=self._normalize_wechat_data_type(data_type),
+                data_type=data_type,
                 purpose=self.kb.normalize_term((purpose or "").strip()),
                 processing_method=(method or "").strip(),
                 recipients=[self.default_recipient],
@@ -63,7 +63,7 @@ class GuideExtractorWechat:
         for j, match in enumerate(matches_b):
             method, data_type, purpose = match.group(1), match.group(2), match.group(3)
             item = PrivacyItem(
-                data_type=self._normalize_wechat_data_type(data_type),
+                data_type=data_type,
                 purpose=self.kb.normalize_term((purpose or "").strip()),
                 processing_method=(method or "").strip(),
                 recipients=[self.default_recipient],
@@ -89,25 +89,3 @@ class GuideExtractorWechat:
 
     def _filter_empty_data_type(self, items: List[PrivacyItem]) -> List[PrivacyItem]:
         return [item for item in items if item.data_type and item.data_type.strip()]
-
-    def _normalize_wechat_data_type(self, data_type: str) -> str:
-        dt = self.kb.normalize_term((data_type or "").strip())
-        dt = re.sub(r"\s+", "", dt)
-        dt = dt.removeprefix("你的")
-        if dt in {"", "的"}:
-            return ""
-
-        replacements = {
-            "相册": "相册（仅写入）权限",
-            "相册（仅写入）": "相册（仅写入）权限",
-            "相册仅写入": "相册（仅写入）权限",
-            "日历": "日历（仅写入）权限",
-            "日历（仅写入）": "日历（仅写入）权限",
-            "通讯录": "通讯录（仅写入）权限",
-            "通讯录（仅写入）": "通讯录（仅写入）权限",
-            "选中的照片或视频信息": "选中的照片或视频",
-            "选择的照片或视频信息": "选中的照片或视频",
-            "照片或视频信息": "选中的照片或视频",
-            "文件": "选中的文件",
-        }
-        return replacements.get(dt, dt)

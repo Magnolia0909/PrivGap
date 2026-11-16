@@ -7,7 +7,7 @@ try:
     import json_repair
 except ImportError:
     json_repair = None
-from data.data_process.data_structures import PrivacyItem
+from annotated_data import PrivacyItem
 class LLMExtractor:
     def __init__(self, config, kb, llm_client):
         self.config = config

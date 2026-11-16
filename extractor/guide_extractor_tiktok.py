@@ -2,7 +2,7 @@ import re
 import time
 import coloredlogs, logging
 from typing import List, Optional
-from data.data_process.data_structures import PrivacyItem, ExtractionResult
+from annotated_data import PrivacyItem, ExtractionResult
 from utils.text_utils import extract_sentences
 
 

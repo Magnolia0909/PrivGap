@@ -1,0 +1,10906 @@
+[
+  {
+    "platform": "alipay",
+    "id": 14,
+    "app_id": "2019012963170386",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 16,
+    "app_id": "2018032902468403",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 17,
+    "app_id": "2021002121691977",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 18,
+    "app_id": "2021005115683045",
+    "privacy_items": [
+      {
+        "data_type": "相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 21,
+    "app_id": "2021002174638299",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 22,
+    "app_id": "2021002163601771",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 23,
+    "app_id": "2021003190652109",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 24,
+    "app_id": "68687096",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 25,
+    "app_id": "2017092208871988",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "选择相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 26,
+    "app_id": "2021003120619817",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 27,
+    "app_id": "2018110161946659",
+    "privacy_items": [
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 29,
+    "app_id": "2018082861168647",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "数据时间",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "步数值",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "时区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名和证件号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 31,
+    "app_id": "2018121962574509",
+    "privacy_items": [
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "发票",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 33,
+    "app_id": "2021003183632013",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 35,
+    "app_id": "2019062865745088",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 37,
+    "app_id": "2021003147672148",
+    "privacy_items": [
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "发票",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "车牌号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 39,
+    "app_id": "2021001180669547",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 74,
+    "app_id": "2021002155688177",
+    "privacy_items": [
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 75,
+    "app_id": "2021004122691264",
+    "privacy_items": [
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 76,
+    "app_id": "2019010362733839",
+    "privacy_items": [
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 77,
+    "app_id": "2018040202492080",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 78,
+    "app_id": "2021001107634220",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 79,
+    "app_id": "2018052860324128",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 80,
+    "app_id": "2021005183650823",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 81,
+    "app_id": "2017050407110255",
+    "privacy_items": [
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "选择相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 82,
+    "app_id": "2021002137661104",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 83,
+    "app_id": "2021003103685139",
+    "privacy_items": [
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 84,
+    "app_id": "2021004184650530",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 85,
+    "app_id": "2019011162880259",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "数据时间",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "步数值",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "时区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名和证件号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 86,
+    "app_id": "2018061360359342",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "数据时间",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "步数值",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "时区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "文件",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 87,
+    "app_id": "2021003165688220",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 88,
+    "app_id": "2018082761122570",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 89,
+    "app_id": "2021003176627530",
+    "privacy_items": [
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 90,
+    "app_id": "2021004125638114",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 91,
+    "app_id": "2021005113650664",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 92,
+    "app_id": "2021003111654154",
+    "privacy_items": [
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 93,
+    "app_id": "2019011462964719",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 170,
+    "app_id": "2021002142682677",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 171,
+    "app_id": "2018111562166609",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 173,
+    "app_id": "2021002135628153",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省份名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 174,
+    "app_id": "2021003171636112",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）、相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 175,
+    "app_id": "2021002176662899",
+    "privacy_items": [
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 176,
+    "app_id": "2021002127699828",
+    "privacy_items": [
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "临时文件",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "订单",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址列表区域编码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址的联系人移动电话",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否默认收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货人全名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "个人用户生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "当前地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "电话号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 177,
+    "app_id": "2018042660063295",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 178,
+    "app_id": "2021004123642849",
+    "privacy_items": [
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名和证件号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 179,
+    "app_id": "2021004101639361",
+    "privacy_items": [
+      {
+        "data_type": "保存到相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "选择相册",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "录音权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 605,
+    "app_id": "2019090266794548",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 618,
+    "app_id": "2021003185657062",
+    "privacy_items": [
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "生日",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户编码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否默认收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "收货地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 629,
+    "app_id": "2021002109659822",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 633,
+    "app_id": "2019032163591933",
+    "privacy_items": [
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "实名认证状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 638,
+    "app_id": "2021004158620732",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 644,
+    "app_id": "2018110662039337",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "姓名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 647,
+    "app_id": "2019090767025331",
+    "privacy_items": [
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 648,
+    "app_id": "2018071760660325",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 651,
+    "app_id": "2021002115682634",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "人脸信息采集",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝登录名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "证件号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 659,
+    "app_id": "2018072460764274",
+    "privacy_items": [
+      {
+        "data_type": "是否通过实名认证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "罗盘",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "设备方向",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（访问）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "是否是学生",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户类型",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "性别",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 661,
+    "app_id": "2018071260506963",
+    "privacy_items": [
+      {
+        "data_type": "省",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "详细地址",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户名",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地址数据状态",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "国家名称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "街道",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "区",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "市",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "相册（保存）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "支付宝用户的userId",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "alipay",
+    "id": 664,
+    "app_id": "2021003158691058",
+    "privacy_items": [
+      {
+        "data_type": "摄像头权限",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "通讯录",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 328,
+    "app_id": "tt3fe84955a0d6fa5d01",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 332,
+    "app_id": "ttbb0acdb72430554c",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 357,
+    "app_id": "tt37b1410ca8888c9101",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 350,
+    "app_id": "tta977dfca3648b5f501",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 343,
+    "app_id": "tt8e80f83d11bc7cb901",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 345,
+    "app_id": "tt8fa8f91510907a8601",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 393,
+    "app_id": "ttbe17c8aa2121c82101",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 424,
+    "app_id": "ttba22cc9f251b2ce601",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 417,
+    "app_id": "ttdab0ac0d459a6266",
+    "privacy_items": [
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1466,
+    "app_id": "ttc24eb4f35d708de801",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1468,
+    "app_id": "ttdd1caba1422dadad01",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1469,
+    "app_id": "ttef9b992670b151ec",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1471,
+    "app_id": "tt033c75819c00f0cd01",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1472,
+    "app_id": "tta64bd0f6397b3ef701",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1473,
+    "app_id": "tt0c7c7ac1934c076801",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1474,
+    "app_id": "tt756e03d3ea444410",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1475,
+    "app_id": "tt1ad56c6885e99c2c01",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1477,
+    "app_id": "tt0a4e7cf39570188901",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1478,
+    "app_id": "ttedfd9b4072c0e68001",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1479,
+    "app_id": "tt3ed7486aa1fd80c3",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1480,
+    "app_id": "tt99daef6706e36ff401",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "WIFI状态",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1482,
+    "app_id": "ttc4dab2675be6cbe601",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 1484,
+    "app_id": "tt77c6017be8fa9f7501",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "日历",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2739,
+    "app_id": "ttec9e9a2373a9369301",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2740,
+    "app_id": "tt768c0031e9b0727a01",
+    "privacy_items": []
+  },
+  {
+    "platform": "douyin",
+    "id": 2741,
+    "app_id": "tt41ed3750dedd488d01",
+    "privacy_items": []
+  },
+  {
+    "platform": "douyin",
+    "id": 2742,
+    "app_id": "tta926df9b362f28e301",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2743,
+    "app_id": "tt6f1919a4f026aad601",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2745,
+    "app_id": "tt49d93f64d6e01ad501",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2747,
+    "app_id": "tt57ea2157c8dff43501",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2748,
+    "app_id": "ttb4ddc2602be01ecb01",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2749,
+    "app_id": "ttdc5aaae74363ee9b01",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2751,
+    "app_id": "tt4e1238afd071781201",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2752,
+    "app_id": "tt08af7e129799584801",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2753,
+    "app_id": "tta1ced7733efbfe7101",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2754,
+    "app_id": "tt0e2a789791122d1501",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2755,
+    "app_id": "tt8246f4fb1d4eed8601",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2756,
+    "app_id": "tt8c42faff13683d4a",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2757,
+    "app_id": "ttc78cb13158a68335",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2758,
+    "app_id": "tt014877f59e74fb2a01",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2759,
+    "app_id": "ttb6a5c01829922fbf01",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2760,
+    "app_id": "ttd198a7254ea7d90601",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "日历",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "人脸识别",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2761,
+    "app_id": "ttc447b2fa5b78f28901",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2763,
+    "app_id": "ttce01b8bc513db7d701",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2764,
+    "app_id": "tt1bdf6d6284f58a92",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2765,
+    "app_id": "tte9d19f6c77b2f24601",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "拨打电话",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "通讯地址",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相机",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "相册",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "人脸识别",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "用户实名信息",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2766,
+    "app_id": "tt2eb6580bb1869aae01",
+    "privacy_items": [
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "人脸识别",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "WIFI状态",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "抖音账号数据",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "钱包实名认证",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2767,
+    "app_id": "tt051273af9a38b192",
+    "privacy_items": [
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2768,
+    "app_id": "tt8ad6fc6b15fc322f",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "身份证",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "网络识别信息（头像、昵称、密码等）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "公开信息（头像、昵称以及您授权的其他信息）",
+        "recipients": [
+          "我们"
+        ]
+      },
+      {
+        "data_type": "用户昵称",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "头像",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "手机号码",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "地理位置",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "日历",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "加速度计",
+        "recipients": [
+          "开发者"
+        ]
+      },
+      {
+        "data_type": "陀螺仪",
+        "recipients": [
+          "开发者"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "douyin",
+    "id": 2769,
+    "app_id": "tt46e53058d9cfc5cc",
+    "privacy_items": []
+  },
+  {
+    "platform": "wechat",
+    "id": 231,
+    "app_id": "wxd4ff6b6129a564d3",
+    "privacy_items": [
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          " 田蜜蜜婚恋"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 232,
+    "app_id": "wxe3e77f0c3acf3436",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "咕嘟丨MBTI人格测试交友"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 233,
+    "app_id": "wx03ca7dc785499e0d",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "那个校园"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "那个校园"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 234,
+    "app_id": "wx52e4ba1e8fddd0cb",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "坤悦健康"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "坤悦健康"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 235,
+    "app_id": "wx3add716617862258",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "她说丨认真交朋友"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 236,
+    "app_id": "wx25053a7638a508dc",
+    "privacy_items": [
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "漂流瓶进入"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 237,
+    "app_id": "wxf03d4e2be7161cc5",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "谜圈剧本杀密室狼人线下组局社交"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 238,
+    "app_id": "wx12352bc4d9a40f1e",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "囍搭子丨喜搭子丨找搭子丨搭子"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "囍搭子丨喜搭子丨找搭子丨搭子"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 239,
+    "app_id": "wx059cd327295ab444",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "邮箱",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "操作日志",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "所关注账号",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "订单信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "群接龙"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "群接龙"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 240,
+    "app_id": "wxeb13e85bef8b60d9",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "珍爱网同城约会相亲婚恋平台"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 241,
+    "app_id": "wx771410a91d6e6735",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "成家相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "成家相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 242,
+    "app_id": "wxd0529f74383bd44f",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          " 新密语胶囊"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 243,
+    "app_id": "wxd7a173b1f705289d",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "lingxi活动"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "lingxi活动"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "lingxi活动"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "lingxi活动"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 244,
+    "app_id": "wxcf4eefaa8b8d5660",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "脱单宝"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "脱单宝"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 245,
+    "app_id": "wx353ce1d22e618d55",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "缘来如此单身交友平台"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 246,
+    "app_id": "wxff83e5869003ba16",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "洛阳神都相亲网"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 247,
+    "app_id": "wxb99affee7f626dd8",
+    "privacy_items": [
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "智赛通"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "智赛通"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 248,
+    "app_id": "wx7b2444f167ed73f3",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "神木小红娘"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "神木小红娘"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 249,
+    "app_id": "wxc895b3f27f64ad04",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "荣耀渭南相亲网"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 250,
+    "app_id": "wx788f5daad54eb854",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "青藤之恋"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "青藤之恋"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 251,
+    "app_id": "wxe0ee72471dcb8784",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "脱单实验室Lab"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 252,
+    "app_id": "wx704612e15eea7e65",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "皖美之约"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "皖美之约"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 253,
+    "app_id": "wxc9671f10bc01c51e",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          " 父母牵线"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          " 父母牵线"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 254,
+    "app_id": "wx153356ea71fef48f",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "父母为媒"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "父母为媒"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 256,
+    "app_id": "wx95da39255f4771d3",
+    "privacy_items": [
+      {
+        "data_type": "地址",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          " 懒橘校园"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 257,
+    "app_id": "wx454addfc6819a2ac",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "探探糖"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "探探糖"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 258,
+    "app_id": "wxd0ad7e76d51ae4cc",
+    "privacy_items": [
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "鹅圈子"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "鹅圈子"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 259,
+    "app_id": "wxcce6440ef3727704",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "好游快爆社区"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "好游快爆社区"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "好游快爆社区"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 260,
+    "app_id": "wx560bcf0c2bbb16a8",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "墙墙墙"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "墙墙墙"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 261,
+    "app_id": "wx90e9fd2e4a266bb1",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "新态度胶囊"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 262,
+    "app_id": "wxcdae8e058cd572cf",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "月老蜀黍"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 263,
+    "app_id": "wx3921ddb0258ff14f",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "赞噢校园集市"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 264,
+    "app_id": "wxd11f55bff273865e",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "府州良缘"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "府州良缘"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 265,
+    "app_id": "wx901a43576e652ff0",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "淮安月老来牵线"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 266,
+    "app_id": "wxbd784206ce3b0e17",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "嘟嘟牛自助上网"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 268,
+    "app_id": "wxf8840640ba62c980",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "乃票"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "乃票"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 269,
+    "app_id": "wx90266743f81c2594",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "磁场传感器",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "粗门丨一起更好玩"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 270,
+    "app_id": "wxef837576a7a709bf",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "校园猹话会"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "校园猹话会"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 271,
+    "app_id": "wxdbf2b50ca37c30c0",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "加速传感器",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "二狗App"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "二狗App"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 272,
+    "app_id": "wxcb078dc119ba4376",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "和生活-移动优选"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 273,
+    "app_id": "wx28102bc4e0d951a5",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "往后余生平台"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "往后余生平台"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 275,
+    "app_id": "wxfac7aed465910642",
+    "privacy_items": [
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "便民贴"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "便民贴"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 276,
+    "app_id": "wx2b3db5a0ae4210e7",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "果动赛事"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "果动赛事"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 278,
+    "app_id": "wxd09b66f78f44677d",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "You意思脱单"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "You意思脱单"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 279,
+    "app_id": "wxa588e7bb87106284",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "大濮相亲"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "大濮相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 280,
+    "app_id": "wxdc718bdd2469106d",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "纸条儿故事会"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "纸条儿故事会"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "纸条儿故事会"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 281,
+    "app_id": "wx70d65d2170dbacd7",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "订单信息",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "完美亲家"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "完美亲家"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 282,
+    "app_id": "wx51091d4d0fd0b54d",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "榆见爱情"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "榆见爱情"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 283,
+    "app_id": "wxde8ac0a21135c07d",
+    "privacy_items": [
+      {
+        "data_type": "地址",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "磁场传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "陀螺仪传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "通讯录（仅写入）权限",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "方向传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "加速传感器",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "美团丨外卖团购特价美食酒店电影"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 284,
+    "app_id": "wx621b87e4b2b83e10",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "渭南荣耀便民平台"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 285,
+    "app_id": "wx125eb90fa89a6287",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "搜电"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "搜电"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 286,
+    "app_id": "wxb57627a2a7e9cb59",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "怪兽充电EnergyMonster"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 287,
+    "app_id": "wxb1a70937ee94c194",
+    "privacy_items": [
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "货拉拉丨拉货搬家跑腿货运物流"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 288,
+    "app_id": "wx3a16e827ce13e026",
+    "privacy_items": [
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "KO台球"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "KO台球"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "KO台球"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 289,
+    "app_id": "wx8576387151da636a",
+    "privacy_items": [
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "沛县便民网相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 290,
+    "app_id": "wx8f5901dc7878cbb8",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "操作日志",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "艾特校园圈"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 291,
+    "app_id": "wxdbee9b9d855d6263",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "通讯录（仅写入）权限",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "微信运动步数",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "恋人空间丨原情侣空间已改名"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 292,
+    "app_id": "wxbf81ce9e3b024432",
+    "privacy_items": [
+      {
+        "data_type": "蓝牙",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "创能智慧服务"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 293,
+    "app_id": "wx677327d7211fb614",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "安康城恋"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "安康城恋"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 294,
+    "app_id": "wxc2ffd136a01eb4e0",
+    "privacy_items": [
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "汉中艾特闹相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 296,
+    "app_id": "wx747d5beb5d5e7b02",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "操作日志",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "所关注账号",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "问止精一书院"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "问止精一书院"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 297,
+    "app_id": "wx6617c33885d9dde1",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "小象脱单"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "小象脱单"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 298,
+    "app_id": "wx642b23089f7cf86f",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "宝鸡恋爱花开婚恋网"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 299,
+    "app_id": "wxdbb4c5f1b8ee7da1",
+    "privacy_items": [
+      {
+        "data_type": "方向传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "陀螺仪传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "磁场传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "加速传感器",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "日历（仅写入）权限",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "发票信息",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      },
+      {
+        "data_type": "地址",
+        "recipients": [
+          "猫眼电影演出玩乐I电影票演唱会"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 300,
+    "app_id": "wxfa90c4a7e3e3e2d4",
+    "privacy_items": [
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "孩缘相亲婚恋婚介网"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "孩缘相亲婚恋婚介网"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "孩缘相亲婚恋婚介网"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 301,
+    "app_id": "wxe86b3a420b7be125",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "MarryU相亲交友"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 302,
+    "app_id": "wx6d1d56ee7a4f21b9",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "身份证号码",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "订单信息",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "发布内容",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "所关注账号",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "爱盟遇见对的人"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 303,
+    "app_id": "wx2e2e477331ac1949",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "设备信息",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "麦克风",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "呼和浩特真谛相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 304,
+    "app_id": "wxdb43cddae6348fe5",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "选中的文件",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "大玩家 室内新游乐典范"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 305,
+    "app_id": "wxbf0f568ebbde45ee",
+    "privacy_items": [
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "微信昵称、头像",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "摄像头",
+        "recipients": [
+          "徐州月老"
+        ]
+      },
+      {
+        "data_type": "位置信息",
+        "recipients": [
+          "徐州月老"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 306,
+    "app_id": "wx5fffb4ba725cbe98",
+    "privacy_items": [
+      {
+        "data_type": "剪切板",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      },
+      {
+        "data_type": "选中的照片或视频",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      },
+      {
+        "data_type": "相册（仅写入）权限",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      },
+      {
+        "data_type": "手机号",
+        "recipients": [
+          "缘亲家相亲"
+        ]
+      }
+    ]
+  },
+  {
+    "platform": "wechat",
+    "id": 307,
+    "app_id": "wxfab91807ab94ce0c",
+    "privacy_items": []
+  }
+]
